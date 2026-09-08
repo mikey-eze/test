@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+*.iml
+local.properties
+/build/
+app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+__pycache__/
+*.pyc
+.env
+backend/*.db
+backend/uploads/*
+backend/models/*.pt
