@@ -162,3 +162,5 @@ For a real disease detector, train a crop-specific model and place the resulting
 
 ### Android emulator
 The app connects to `http://10.0.2.2:8000/`, which points from the Android emulator to the host machine's port 8000.
+
+<h1>hi hello this is karthik</h1>
